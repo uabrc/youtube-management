@@ -1,0 +1,80 @@
+title,part,category,index,date,layout_index
+Creating an Anaconda Environment for Data Science,,Data Science Journal Club,1,4/25/2019,1
+Your First Machine Learning Model,,Data Science Journal Club,2,5/3/2019,1
+Using Singularity and Docker Containers,,Researcher Training Session,1,5/8/2019,4
+Using Scikit Learn,,Data Science Journal Club,3,5/13/2019,1
+Denoising Images with Autoencoders,,Data Science Journal Club,4,5/17/2019,1
+Using XGBoost with Tabular Data,,Data Science Journal Club,5,5/24/2019,1
+Data Leakage,,Data Science Journal Club,6,5/30/2019,1
+Building a Recommender System using Pandas and Python,1,Data Science Journal Club,7,6/7/2019,1
+Using MATLAB on Cheaha,,Researcher Training Session,2,6/12/2019,4
+Building a Recommender System using Pandas and Python,2,Data Science Journal Club,8,6/14/2019,1
+Exploring the Pandas Library in Python,1,Data Science Journal Club,9,6/21/2019,1
+Exploring the Pandas Library in Python,2,Data Science Journal Club,10,6/28/2019,1
+Exploring the Pandas Library in Python,3,Data Science Journal Club,11,7/12/2019,1
+Git for Data Science,,Data Science Journal Club,12,7/19/2019,1
+Playing Games with Reinforcement Learning using OpenAI and Tensorflow,,Data Science Journal Club,13,7/26/2019,1
+Gaining Data Insights Through Profiling a Dataset Using a Pandas Profiler,,Data Science Journal Club,14,8/9/2019,1
+Building Machine Learning Models in R,1,Data Science Journal Club,15,8/22/2019,1
+Building Machine Learning Models in R,2,Data Science Journal Club,16,8/22/2019,1
+Building Machine Learning Models in R,3,Data Science Journal Club,17,8/29/2019,1
+Sentiment Analysis with Python and NLP,1,Data Science Journal Club,18,9/6/2019,1
+Sentiment Analysis with Python and NLP,2,Data Science Journal Club,19,9/13/2019,1
+My First Convolutional Neural Network,,Data Science Journal Club,20,9/20/2019,1
+My First Generative Adversarial Network,,Data Science Journal Club,21,9/27/2019,1
+"Starting, Stopping and Resuming Training in Keras",1,Data Science Journal Club,22,10/4/2019,1
+"Starting, Stopping and Resuming Training in Keras",2,Data Science Journal Club,23,10/4/2019,1
+Setting up rclone for Box.com File Transfer to/from Cheaha,,Researcher Training Session,3,10/4/2019,4
+"Feature Extraction: PCA, ICA, and LDA",1,Data Science Journal Club,24,10/11/2019,1
+New User Workflows,,Researcher Training Session,4,10/11/2019,4
+Feature Extraction: LLE and T-SNE,2,Data Science Journal Club,25,10/18/2019,1
+Data Visualization using Seaborn,1,Data Science Journal Club,26,10/28/2019,1
+Machine Learning Interpretability with Patrick Hall,,Data Science Journal Club,27,11/4/2019,1
+Data Science in the Wild with Noha and Joshua,,Data Science Journal Club,28,11/8/2019,1
+Data Visualization using Seaborn,2,Data Science Journal Club,29,12/6/2019,1
+Data Visualization using Seaborn,3,Data Science Journal Club,30,12/13/2019,1
+Rules of Machine Learning: Best Practices for ML Engineering,1,Data Science Journal Club,31,12/20/2019,1
+Rules of Machine Learning: Best Practices for ML Engineering,2,Data Science Journal Club,32,1/17/2020,1
+Rules of Machine Learning: Best Practices for ML Engineering,3,Data Science Journal Club,33,1/24/2020,1
+Essential Data Cleaning for Machine Learning,,Data Science Journal Club,38,3/20/2020,1
+Random Forests and Feature Selection in MATLAB,,Data Science Journal Club,39,3/27/2020,1
+Setting up Machine Learning in R,,Data Science Journal Club,40,4/3/2020,1
+XGBoost in R,,Data Science Journal Club,41,4/17/2020,1
+Intro to Tidyverse,,Data Science Journal Club,42,4/24/2020,1
+Python for Data Journalists,,Data Science Journal Club,43,5/27/2020,1
+Visualizing the Spread of COVID with Python,,Data Science Journal Club,44,6/4/2020,1
+Loading Modules and Lmod,,Researcher Training Session,5,6/10/2020,4
+Using NYT COVID Data to Make a Data Science Dashboard with Streamlit,,Data Science Journal Club,45,6/24/2020,1
+Making a COVID-19 Dashboard with R Shiny,,Data Science Journal Club,46,7/1/2020,1
+Time Series Analysis with Pandas,1,Data Science Journal Club,47,7/9/2020,1
+Job Scheduling,,Researcher Training Session,6,7/22/2020,4
+Time Series Analysis with Pandas,2,Data Science Journal Club,48,8/10/2020,1
+"Job Efficiency Metrics with seff, and Singularity Containers",,Researcher Training Session,7,8/12/2020,4
+Intro to SQL: Getting Started,1,Data Science Journal Club,49,8/19/2020,1
+Intro to SQL: Getting Started,2,Data Science Journal Club,50,9/9/2020,1
+Intro to SQL: Getting Started,3,Data Science Journal Club,51,9/30/2020,1
+Intro to SQL: Getting Started,4,Data Science Journal Club,52,10/8/2020,1
+Visual Studio Code Overview,,Researcher Training Session,8,10/14/2020,4
+Advanced SQL,1,Data Science Journal Club,53,10/28/2020,1
+Advanced SQL,2,Data Science Journal Club,54,11/11/2020,1
+Slurm Array Jobs,,Researcher Training Session,9,11/18/2020,4
+R Environment Scalability and Reproducibility with Docker,,Researcher Training Session,10,12/9/2020,4
+Advanced SQL,3,Data Science Journal Club,55,12/10/2020,1
+Advanced SQL,4,Data Science Journal Club,56,1/14/2021,1
+Data Movement,,Researcher Training Session,11,2/10/2021,4
+Checkpoint with DMTCP,1,Data Science Journal Club,61,3/4/2021,1
+Checkpoint with DMTCP,2,Data Science Journal Club,62,3/4/2021,1
+Geospatial Analysis,1,Data Science Journal Club,63,4/15/2021,1
+Starting the HPC Journey,,Researcher Training Session,12,5/12/2021,4
+HPC: Wranling Your Environment,,Researcher Training Session,13,6/14/2021,4
+SLURM How To,,Researcher Training Session,14,9/22/2021,4
+Data Exploration in R,,Data Science Journal Club,34,2/3/2020,1
+Git and MATLAB on Cheaha,,Data Science Journal Club,36,2/28/2020,1
+Geospatial Analysis,2,Data Science Journal Club,64,4/29/2021,1
+Geospatial Analysis,3,Data Science Journal Club,65,5/6/2021,1
+Geospatial Analysis,4,Data Science Journal Club,66,6/10/2021,1
+BIDS Workshop,,Researcher Training Session,15,2/22/2022,4
+Fmriprep Tutorial,,Researcher Training Session,16,3/21/2022,4
+Introduction to MRIQC,,Researcher Training Session,17,5/1/2022,4
+Introduction to QSIprep,,Researcher Training Session,18,6/14/2022,4
+Singularity Containers Supplement,,,,5/8/2019,2
